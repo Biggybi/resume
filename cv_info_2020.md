@@ -25,10 +25,7 @@
 - C
 
 ### Autodidacte
-- JavaScript / Node js
-- Bash
-- Vimscript
-- HTML / CSS
+- JavaScript - Node JS - Bash - Vimscript - HTML / CSS / Markdown
 
 ## Projets personnels
 - Linux *dotfiles* (configuration bash, vim, inputrc) avec script d'installation
