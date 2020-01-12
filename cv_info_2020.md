@@ -20,18 +20,18 @@
 
 ## Langages informatique
 - C
-- JavaScript / Node js (autodidacte)
-- Bash (autodidacte)
-- Vimscript (autodidacte)
-- HTML / CSS (autodidacte)
+- JavaScript / Node js `autodidacte`
+- Bash `autodidacte`
+- Vimscript `autodidacte`
+- HTML / CSS `autodidacte`
 
 ## Projets personnels
 - Linux *dotfiles* (configuration bash, vim, inputrc) avec script d'installation
-- Vim : configuration poussée (vimrc)
+- Vim : configuration avancée (vimrc)
 - Site web personnel (javascript) sur serveur maison (linux)
 
 ## Divers
 - Permis B
 - Dactylographie
-- Anglais courant, allemand scolaire
+- Anglais courant (oral et écrit), allemand scolaire
 - Français - expresion écrite et orale aisées
