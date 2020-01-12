@@ -5,15 +5,15 @@
 [github.com/Biggybi](www.github.com/Biggybi) - [tristankapous.com](www.tristankapous.com)
 
 ## Expériences professionnelles
-### Stage *IM2AG* Grenoble (IUT info/maths)
+### Stage *IM2AG* (IUT Grenoble)
 - Service informatique (admin système) `Avril 2017`
 - FabLab (Raspberry Pi / Arduino) `Mai 2017`
 
-### Stage association *ASIF* Grenoble
+### Stage association *ASIF*
 - mise en place réseau : Active Directory + 20 PC	`Juin 2017`
 
 ### Conseiller 4G SFR
-- Accueil client, démonstration de la 4G, rapport journalier		`Février 2014`
+- Accueil client, démonstration de la 4G, rapport journalier	`Février 2014`
 
 ## Etudes
 - Ecole **Le 101** Lyon	(1 an)				`2018 - 2019`
