@@ -1,0 +1,75 @@
+html
+{
+	font-family: sans-serif;
+	color: #222222;
+}
+
+a
+{
+	text-decoration: none;
+	/* color: #555555; */
+	color: #00a5ff;
+}
+
+a:hover
+{
+	color: #333333;
+}
+
+h1
+{
+	font-variant: small-caps;
+	margin: 5px 0 5px 0;
+	padding: 0;
+}
+
+h2
+{
+	margin: 10px 0;
+	/* margin: 20px 0 10px 0; */
+	/* text-decoration: overline; */
+	font-variant: small-caps;
+	border-top: 1px solid #ccc;
+	color: #ff5a00;
+	padding: 10px 0px 0px 0px;
+}
+
+h3
+{
+	display: inline-block;
+	/* margin: 10px 0 0 0; */
+	margin: 5px 0 5px 0;
+	padding-left: 20px;
+	/* color: #00a5ff; */
+	color: #555555;
+}
+
+h4
+{
+	margin: 0;
+}
+
+ul
+{
+	list-style-type: none;
+	display: inline-block;
+	width: 95%;
+	margin-left: 20px;
+	padding: 0;
+	margin: 0px 0px 0px 20px;
+}
+
+li
+{
+	margin: 2px 0 2px 20px;
+}
+
+code
+{
+	float: right;
+	margin-right: 0px;
+}
+/* #stage-im2ag-grenoble-avril---mai-2017 */
+/* { */
+/* 	color: greenyellow; */
+/* } */
