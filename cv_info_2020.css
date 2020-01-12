@@ -5,7 +5,7 @@ body
 
 html
 {
-	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-family: Arial, Verdana, sans-serif;
 	font-size: 1em;
 }
 
@@ -39,6 +39,15 @@ h2
 	padding: 5px 0px 0px 0px;
 }
 
+h3 em
+{
+	font-decoration: none;
+	font-size: smaller;
+	text-transform: uppercase;
+	/* font-variant: all-small-caps; */
+	font-style: normal;
+}
+
 h3
 {
 	display: inline-block;
@@ -52,6 +61,7 @@ h3
 h4
 {
 	margin: 0;
+	padding: 0;
 }
 
 ul
@@ -65,7 +75,7 @@ ul
 
 li
 {
-	margin: 1px 0 1px 0px;
+	margin: 3px 0 3px 0px;
 }
 
 li code
@@ -73,7 +83,7 @@ li code
 	float: right;
 	margin-right: 0px;
 	text-decoration: none;
-	font-family: monospace, sans-serif;
+	font-family: monospace, "Source Code Pro", sans-serif;
 	font-size: 1em;
 }
 /* #stage-im2ag-grenoble-avril---mai-2017 */

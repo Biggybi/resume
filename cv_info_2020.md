@@ -5,12 +5,15 @@
 [github.com/Biggybi](www.github.com/Biggybi) - [tristankapous.com](www.tristankapous.com)
 
 ## Expériences professionnelles
-### Stage IM2AG Grenoble (IUT info/maths)
+### Stage *IM2AG* Grenoble (IUT info/maths)
 - Service informatique (admin système) `Avril 2017`
 - FabLab (Raspberry Pi / Arduino) `Mai 2017`
 
-### Stage association ASIF Grenoble
+### Stage association *ASIF* Grenoble
 - mise en place réseau : Active Directory + 20 PC	`Juin 2017`
+
+### Conseiller 4G SFR
+- Accueil client, démonstration de la 4G, rapport journalier		`Février 2014`
 
 ## Etudes
 - Ecole **Le 101** Lyon	(1 an)				`2018 - 2019`
@@ -20,10 +23,12 @@
 
 ## Langages informatique
 - C
-- JavaScript / Node js `autodidacte`
-- Bash `autodidacte`
-- Vimscript `autodidacte`
-- HTML / CSS `autodidacte`
+
+### Autodidacte
+- JavaScript / Node js
+- Bash
+- Vimscript
+- HTML / CSS
 
 ## Projets personnels
 - Linux *dotfiles* (configuration bash, vim, inputrc) avec script d'installation
@@ -34,4 +39,4 @@
 - Permis B
 - Dactylographie
 - Anglais courant (oral et écrit), allemand scolaire
-- Français - expresion écrite et orale aisées
+- Français : bonne expresion écrite et orale
