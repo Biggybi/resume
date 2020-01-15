@@ -3,20 +3,20 @@
 
 ## etudes
 - Ecole **Le 101** Lyon	(1 an)				`2018 - 2019`
-- Ecole **42** Paris (1 an)				`2015 - 2016`
+- Ecole **42** Paris (1 an)					`2015 - 2016`
 - IUT Informatique 	(6 mois)				`2012 - 2013`
 - Bac scientifique							`2011`
 
 ## expériences professionnelles
 ### Stage *IM2AG* (IUT Grenoble)
-- Service informatique (admin système) `Avril 2017`
-- FabLab (Raspberry Pi / Arduino) `Mai 2017`
+- Service informatique (admin système)								`Avril 2017`
+- FabLab (Raspberry Pi / Arduino)									`Mai 2017`
 
-### Stage *ASIF* (association réinsertion professionnelle)
-- mise en place réseau : Active Directory + 20 PC	`Juin 2017`
+### Stage *ASIF* (association insertion professionnelle)
+- mise en place réseau : Active Directory + 20 PC					`Juin 2017`
 
 ### Conseiller numérique *4G SFR*
-- Accueil client, démonstration de la 4G, promotion des offres	`Février 2014`
+- Accueil client, démonstration de la 4G, promotion des offres		`Février 2014`
 
 ## expériences bénévoles
 
@@ -32,7 +32,8 @@
 
 ## projets personnels
 ### Configuration Linux
-- *dotfiles* pour environnement de travail (bash, vim, gnome...) avec script d'installation
+- *dotfiles* pour environnement de travail Linux  
+avec script d'installation (bash, vim, gnome...)
 
 ### **Vimrc**
 - configuration avancée de Vim
@@ -41,7 +42,7 @@
 - javascript, sur serveur maison (linux)
 
 ## langages informatique
-- C
+- En école : C
 - Autodidacte : JavaScript - Node JS - Bash - Vimscript - HTML / CSS / Markdown
 
 ## divers
