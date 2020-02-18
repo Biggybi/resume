@@ -1,5 +1,6 @@
 # tristan kapous [06.23.64.35.51]() <tristan.kapous@protonmail.com>
-#### Développur et administrateur système junior [github.com/Biggybi](www.github.com/Biggybi) [tristan.kapous.com](www.tristan.kapous.com)
+<!-- #### Développeur junior [github.com/Biggybi](www.github.com/Biggybi) [tristan.kapous.com](www.tristan.kapous.com) -->
+#### Développeur junior [github.com/Biggybi](www.github.com/Biggybi)
 
 ## études
 - Ecole **Le 101** Lyon(1 an)										`2018 - 2019`
@@ -9,7 +10,7 @@
 
 ## expériences professionnelles
 ### Stage *IM2AG* (IUT Grenoble)
-- Service informatique (admin système)								`avril 2017`
+- Service informatique (admin système Linux)						`avril 2017`
 - FabLab (Raspberry Pi / Arduino)									`mai 2017`
 
 ### Stage *ASIF* (association insertion professionnelle)
@@ -27,8 +28,8 @@
 ### RetinaBoys (site d'actualité numérique)
 - Rédacteur															`2013 - 2014`
 
-### Mission humanitaire au Kenya
-- trous pour papayers et bananiers dans une école primaire			`août 2011`
+### Mission humanitaire au Kenya, Ngumbulu
+- creuser des trous pour des arbres dans une école					`août 2011`
 
 ## projets personnels
 ### Configuration Linux
@@ -44,7 +45,7 @@ avec script d'installation (bash, vim, gnome...)
 ## langages informatique
 
 ### Autodidacte
-- JavaScript - Node JS - Bash - Vimscript - HTML / CSS / Markdown
+- JavaScript (Node) - Bash - Vimscript - HTML / CSS / Markdown
 
 ### En école
 - C / unix
