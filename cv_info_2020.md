@@ -1,5 +1,5 @@
 # tristan kapous [06.23.64.35.51]() <tristan.kapous@protonmail.com>
-#### Développeur junior [github.com/Biggybi](https://www.github.com/Biggybi) [tristan.kapous.com](https://www.tristan.kapous.com)
+#### Développeur junior [github.com/Biggybi](https://www.github.com/Biggybi) [tristan.kapous.com](https://www.tristankapous.com)
 <!-- #### Développeur junior [github.com/Biggybi](www.github.com/Biggybi) -->
 
 ## études
