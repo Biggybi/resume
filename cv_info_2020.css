@@ -112,6 +112,7 @@ h3 strong
 
 	/* font-variant: all-small-caps; */
 	font-style: normal;
+	font-weight: normal;
 }
 
 h3 em
@@ -147,7 +148,7 @@ li
 	margin: 3px 0;
 }
 
-li code, h3 code
+li code
 {
 	float: right;
 	margin-right: 30px;
@@ -157,12 +158,15 @@ li code, h3 code
 	font: #444444;
 }
 
-h3 code
+/* h3 code */
+h3 a
 {
 	float: right;
 	margin-right: 30px;
 	/* text-decoration: none; */
-	font-family: monospace, "Source Code Pro", sans-serif;
+	/* font-family: verdana, monospace, "Source Code Pro", sans-serif; */
+	font-family: verdana;
+	font-weight : normal;
 	font-size: 1em;
 	color: #444444;
 	/* color: #00a5ff; */
