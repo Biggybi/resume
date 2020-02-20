@@ -1,10 +1,10 @@
 # tristan kapous [06.23.64.35.51]() <tristan.kapous@protonmail.com>
-#### Développeur junior [github.com/Biggybi](https://www.github.com/Biggybi) [tristan.kapous.com](https://www.tristankapous.com)
+#### Développeur junior [github.com/Biggybi](https://www.github.com/Biggybi) [tristankapous.com](https://www.tristankapous.com)
 <!-- #### Développeur junior [github.com/Biggybi](www.github.com/Biggybi) -->
 
 ## études
-### Ecole **Le 101** Lyon(1 an)									`2018 - 2019`
-### Ecole **42** Paris (1 an)									`2015 - 2016`
+### Ecole **Le 101** Lyon (1 an)									`2018 - 2019`
+### Ecole **42** Paris (1 an)										`2015 - 2016`
 ### **IUT** Informatique (6 mois)									`2012 - 2013`
 ### **Bac** scientifique											`2011`
 
@@ -27,14 +27,14 @@
 
 ## expériences bénévoles
 
-### Portables4Gamers (site et forum pour PC portables)			`2009 - 2013`
+### Portables4Gamers (site et forum pour PC portables)				`2009 - 2013`
 - *Modérateur* du forum
 - *Rédacteur* pour le site
 
-### RetinaBoys (site d'actualité numérique)						`2013 - 2014`
+### RetinaBoys (site d'actualité numérique)							`2013 - 2014`
 - *Rédacteur*
 
-### Mission humanitaire au Kenya, Ngumbulu						`août 2011`
+### Mission humanitaire au Kenya, Ngumbulu							`août 2011`
 - Creuser des trous pour des arbres dans une école
 
 ## projets personnels
@@ -52,5 +52,5 @@
 - C - Unix - JavaScript (Node) - Bash - Vimscript - HTML / CSS / Markdown
 
 ## divers
-- Anglais quasi-bilingue, allemand scolaire, Permis B
+- *Anglais* quasi-bilingue, allemand scolaire, Permis B
 - Bonne rédaction écrite et dactylographie
