@@ -95,8 +95,9 @@ h3
 	/* color: #CA1243; */
 	/* color: #4078F2; */
 	/* color: #80C23C; */
-	color: #00a5ff;
-	font-weight: normal;
+	/* color: #00a5ff; */
+	color: #000000;
+	font-weight: 550;
 	font-size: 1.0em;
 }
 
@@ -177,6 +178,7 @@ li em
 	/* color: #222222; */
 	color: black;
 	font-style: normal;
+	font-size: 1.0em;
 	/* font-weight: 600; */
 	/* text-shadow: -1px 0px #999999; */
 }
