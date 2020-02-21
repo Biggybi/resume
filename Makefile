@@ -1,17 +1,19 @@
 CV=cv_info_2019
+CV_OUT=tristan_kapous_cv.pdf
 TITLE="Tristan Kapous Resume"
 
-all: pdf
+all: info_pdf
 
-html:
-	@echo ""
+info_html:
+	cd $(CV) && \
 	pandoc -s --metadata pagetitle=$(TITLE) \
 		-c $(CV).css \
 		$(CV).md \
 		-o $(CV).html
 
-pdf: html
+info_pdf: info_html
 	@echo ""
+	cd $(CV) && \
 	wkhtmltopdf --log-level none --title $(TITLE) \
 		$(CV).html \
-		$(CV).pdf
+		$(CV_OUT)
