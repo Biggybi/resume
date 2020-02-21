@@ -15,5 +15,7 @@ info_pdf: info_html
 	@echo ""
 	cd $(CV) && \
 	wkhtmltopdf --log-level none --title $(TITLE) \
+		--margin-top 0 \
+		--margin-bottom 0 \
 		$(CV).html \
 		$(CV_OUT)
