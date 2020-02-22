@@ -34,4 +34,5 @@ lol: all
 	cp $(FOLDER)/$(FOLDER).pdf $(OUT).pdf
 
 clean:
-	rm $(FOLDER)/$(FOLDER).html
+	@rm -rf $(FOLDER)/$(FOLDER).html
+	@rm -rf $(FOLDER)/$(FOLDER).pdf
