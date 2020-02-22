@@ -11,7 +11,7 @@ all: $(FOLDER)/$(PDFFILE)
 
 $(HTMLFILE):
 	@echo "Building html..."
-	cd $(FOLDER) && \
+	@cd $(FOLDER) && \
 	pandoc -s --metadata pagetitle=$(TITLE) \
 		-c $(FOLDER).css \
 		$(FOLDER).md \
@@ -19,7 +19,7 @@ $(HTMLFILE):
 
 $(FOLDER)/$(PDFFILE): $(HTMLFILE)
 	@echo "Building pdf..."
-	cd $(FOLDER) && \
+	@cd $(FOLDER) && \
 	wkhtmltopdf --log-level none --title $(TITLE) \
 		--margin-top 0 \
 		--margin-bottom 0 \
