@@ -1,21 +1,37 @@
-CV=cv_info_2019
-CV_OUT=tristan_kapous_cv.pdf
+FOLDER=cv_info_2019
+OUT=tristan_kapous_cv
 TITLE="Tristan Kapous Resume"
+PDFFILE=$(OUT)
 
-all: info_pdf
+INFO=cv_info_2019
 
-info_html:
-	cd $(CV) && \
+HTMLFILE=$(FOLDER)/$(FOLDER).html
+
+all: $(FOLDER)/$(PDFFILE)
+
+$(HTMLFILE):
+	cd $(FOLDER) && \
 	pandoc -s --metadata pagetitle=$(TITLE) \
-		-c $(CV).css \
-		$(CV).md \
-		-o $(CV).html
+		-c $(FOLDER).css \
+		$(FOLDER).md \
+		-o $(FOLDER).html
 
-info_pdf: info_html
+$(FOLDER)/$(PDFFILE): $(HTMLFILE)
 	@echo ""
-	cd $(CV) && \
+	cd $(FOLDER) && \
 	wkhtmltopdf --log-level none --title $(TITLE) \
 		--margin-top 0 \
 		--margin-bottom 0 \
-		$(CV).html \
-		$(CV_OUT)
+		$(FOLDER).html \
+		$(FOLDER).pdf
+
+info: FOLDER=$(INFO)
+info: all
+	cp $(FOLDER)/$(FOLDER).pdf $(OUT).pdf
+
+lol: FOLDER=lol
+lol: all
+	cp $(FOLDER)/$(FOLDER).pdf $(OUT).pdf
+
+clean:
+	rm $(FOLDER)/$(FOLDER).html
