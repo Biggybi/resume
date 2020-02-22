@@ -3,7 +3,7 @@ OUT=tristan_kapous_cv
 TITLE="Tristan Kapous Resume"
 PDFFILE=$(OUT)
 
-INFO=cv_info_2019
+INFO=info_2019
 
 HTMLFILE=$(FOLDER)/$(FOLDER).html
 
@@ -11,7 +11,7 @@ all: $(FOLDER)/$(PDFFILE)
 
 $(HTMLFILE):
 	@echo "Building html..."
-	@cd $(FOLDER) && \
+	cd $(FOLDER) && \
 	pandoc -s --metadata pagetitle=$(TITLE) \
 		-c $(FOLDER).css \
 		$(FOLDER).md \
@@ -19,7 +19,7 @@ $(HTMLFILE):
 
 $(FOLDER)/$(PDFFILE): $(HTMLFILE)
 	@echo "Building pdf..."
-	@cd $(FOLDER) && \
+	cd $(FOLDER) && \
 	wkhtmltopdf --log-level none --title $(TITLE) \
 		--margin-top 0 \
 		--margin-bottom 0 \
